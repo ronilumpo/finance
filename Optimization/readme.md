@@ -21,3 +21,5 @@ and IVModel is the implied volatility from the model with the given values of pa
 I am using the FFT-approach to price options with given parameter values and converting the dollar prices to Implied Volatilities.
 I visualize the market and volatility surfaces in every optimization iteration.
 Then I calculate the standard errors of parameter estimates.
+
+To run the program, open Optimization_Main.m in MatLab and run the code.
