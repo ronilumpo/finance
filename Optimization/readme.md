@@ -1,6 +1,6 @@
 # Calibration of Heston Stochastic Volatility Model
 
-1. Estimate the model parameters Ψ = {κ, θ, η, ρ, V0}, using a snapshot of volatility surface (empVolatilitySurfaceData.mat)
+Estimate the model parameters Ψ = {κ, θ, η, ρ, V0}, using a snapshot of a volatility surface (empVolatilitySurfaceData.mat)
 
 The empVolatilitySurfaceData.mat file contains a data structure:
 – data.K: 1 × 42 strike prices
